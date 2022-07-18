@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Active Directory Home Project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Project](https://github.com/MLake11/Active-Directory-Home-Lab)
   
   
 <h3> Powershell Scripts</h3>
