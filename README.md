@@ -9,6 +9,7 @@
 <h3> Powershell Scripts</h3>
   
 - <b> [Disk Sanitization](https://github.com/MLake11/Disk-Sanitization)
+- <b> [Adding users to VM](https://github.com/MLake11/Create-Users-Powershell-Script/blob/main/README.md)
 
 <h3> <b>📃 Certifications:</b>
    
