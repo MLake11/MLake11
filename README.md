@@ -2,8 +2,13 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home L](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Active Directory Home Lab</b>
+  - [Active Directory Home Project](https://github.com/joshmadakor1/Algorithms-Practice)
+  
+  
+<h3> Powershell Scripts</h3>
+  
+- <b> [Disk Sanitization](https://github.com/MLake11/Disk-Sanitization)
 
 <h3> <b>📃 Certifications:</b>
    
