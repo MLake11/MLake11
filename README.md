@@ -20,6 +20,10 @@
    
    
 Google IT Support Professional
+CompTIA A+
+CompTIA Network+
+CompTIA Security+
+ITIL 4
 
 
 <h2> 🤳 Connect with me:</h2>
