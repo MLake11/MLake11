@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mark! <br/><a href="https://github.com/MLake11"></a>, <a href="https://www.linkedin.com/in/mark-lakhram-840494227/">Cybersecurity Novice</a>, <a href="https://www.youtube.com/c/joshmadakor">Ongoing Learner</a></h1>
+<h1>Hi, I'm Mark! <br/><a href="https://github.com/MLake11"></a><a href="https://www.linkedin.com/in/mark-lakhram-840494227/">Cybersecurity Novice</a>, <a href="https://www.youtube.com/c/joshmadakor">Ongoing Learner</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
